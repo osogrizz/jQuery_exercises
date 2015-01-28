@@ -1,0 +1,44 @@
+table {
+	margin: auto;
+	
+}
+
+#odd {
+	margin: auto;
+	height: 30px;
+	width: 200px;
+	border:2px black solid;
+	background-color: orange;
+	text-align: center;
+
+}
+
+#even {
+	margin: auto;
+	height: 30px;
+	border: 2px black solid;
+	background-color: skyblue;
+	text-align: center;
+
+}
+
+form {
+	margin-top: 50px;
+	margin-left: 500px;
+
+}
+
+#form2 {
+	margin: auto;
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: 200px;
+}
+
+input {
+	background-color: grey;
+}
+
+#inp {
+	background-color: skyblue;
+}

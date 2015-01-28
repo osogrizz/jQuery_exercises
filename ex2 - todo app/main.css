@@ -1,0 +1,15 @@
+form {
+	margin-top: 50px;
+	margin-left: 40%;
+}
+
+ul {
+	margin-left: 43%;
+	height: 30px;
+	width: 70px;
+}
+
+.completed {
+	text-decoration: line-through;
+}
+
